@@ -1,4 +1,8 @@
-## Hi there 👋
+bem vindos ao meu perfil 
+eu sou a giovanna vieira
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **vieiragiov/vieiragiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
